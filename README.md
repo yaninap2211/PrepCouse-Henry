@@ -11,4 +11,4 @@ repositorio creado del github y clonado desde la base locaL
 6to /desde la base del git volcar los comando para realizar un nuevo commit (git add README.md)
 7to/ git commit -m "commit de prueva de nuevo repositorio"  se guardo de forma local en nuestra computadora 
 estos cambios se guardan en nustra maquina local, se pueden subir estos cambios utilizando desde el git el comando 
-git push origin main (origin indica el origen donde queremos enviar nuestra informacion y la palabra main indica la rama de trabajo a la que la enviaremos )
+git push origin main (origin indica el origen donde queremos enviar nuestra informacion y la palabra main indica la rama de trabajo a la que la enviaremos )# Prepcouse-HenryNoREADME
